@@ -1,6 +1,6 @@
 # SPSE
 Structure For Process System Engineering
 
-该项目为烯烃聚合过程模拟与优化研究
+该项目为《聚合流程模拟与优化技术及应用研究》部分代码
 
 
